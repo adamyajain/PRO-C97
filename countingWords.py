@@ -1,4 +1,4 @@
-introString = input("Enter String: ")
+introString = input("Enter String")
 charCount = 0
 wordCount = 1
 
